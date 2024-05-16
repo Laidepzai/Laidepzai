@@ -1,16 +1,16 @@
-### Hi there 👋
+### Xin chào! Tôi là Hồ Lê Lai 👋
 
-<!--
-**Laidepzai/Laidepzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Tôi hiện đang học và phát triển kỹ năng của mình trong lĩnh vực Lập trình web.
 
-Here are some ideas to get you started:
+🔭 Tôi đang là sinh viên, tập trung vào việc học.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Tôi luôn mở và sẵn sàng hợp tác với các bạn trong dự án mã nguồn mở.
+
+💬 Nếu bạn muốn thảo luận về bất kỳ điều gì, hãy liên hệ với tôi!
+
+📫 Bạn có thể liên hệ với tôi qua email: holelai.d21xdk1.muce.edu.vn.
+
+⚡ Sự thực: đẹp trai.
+
+📚 Bạn có thể tìm hiểu thêm về tôi và các dự án của tôi tại trang cá nhân này.
+
